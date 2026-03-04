@@ -21,3 +21,5 @@ dist/
 /resume.pdf
 _changelog.md
 .task/
+.devenv/
+.direnv/
